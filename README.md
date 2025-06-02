@@ -1,4 +1,4 @@
-# CalculatorTestingMobile
+# 🧮🤖Calculator Testing Mobile
 
 This is a mobile automation testing project for the default Android Calculator app using **Appium**, **TestNG** and **Java**.
 
