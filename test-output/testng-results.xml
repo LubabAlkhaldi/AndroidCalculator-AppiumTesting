@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="4" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-02T15:24:41 GMT+03:00" name="Default suite" finished-at="2025-06-02T15:24:55 GMT+03:00" duration-ms="14138">
+    <groups>
+    </groups>
+    <test started-at="2025-06-02T15:24:41 GMT+03:00" name="Default test" finished-at="2025-06-02T15:24:55 GMT+03:00" duration-ms="14138">
+      <class name="myTestCases">
+        <test-method is-config="true" signature="mySetup()[pri:0, instance:myTestCases@5bf0d49]" started-at="2025-06-02T15:24:41 GMT+03:00" name="mySetup" finished-at="2025-06-02T15:24:41 GMT+03:00" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetup -->
+        <test-method is-config="true" signature="thisPartStartsBeforeEachTest()[pri:0, instance:myTestCases@5bf0d49]" started-at="2025-06-02T15:24:41 GMT+03:00" name="thisPartStartsBeforeEachTest" finished-at="2025-06-02T15:24:52 GMT+03:00" duration-ms="10928" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thisPartStartsBeforeEachTest -->
+        <test-method signature="clickOnTwoRandomNumber()[pri:4, instance:myTestCases@5bf0d49]" started-at="2025-06-02T15:24:52 GMT+03:00" name="clickOnTwoRandomNumber" finished-at="2025-06-02T15:24:55 GMT+03:00" duration-ms="3167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnTwoRandomNumber -->
+        <test-method is-config="true" signature="AftermyTest()[pri:0, instance:myTestCases@5bf0d49]" started-at="2025-06-02T15:24:55 GMT+03:00" name="AftermyTest" finished-at="2025-06-02T15:24:55 GMT+03:00" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AftermyTest -->
+      </class> <!-- myTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
